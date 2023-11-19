@@ -15,9 +15,9 @@ Welcome to the Retail Product Checkout project, where we leverage YOLOv8 to deve
 To train our YOLOv8 model, we collected a diverse dataset of retail checkout scenarios. You can find the dataset [here](https://drive.google.com/file/d/1g4NhcnpTTecGooMpzObEfXzeVmvRJHFr/view?usp=sharing), and we used [Roboflow](https://universe.roboflow.com/cdio-zmfmj/retail-product-checkout) for data preprocessing and augmentation.
 
 ### 2. Data Processing
-Dataset: https://drive.google.com/file/d/1g4NhcnpTTecGooMpzObEfXzeVmvRJHFr/view?usp=sharing
+ - Dataset: https://drive.google.com/file/d/1g4NhcnpTTecGooMpzObEfXzeVmvRJHFr/view?usp=sharing
 or Roboflow project: https://universe.roboflow.com/cdio-zmfmj/retail-product-checkout
-The collected data underwent preprocessing and augmentation to enhance the model's ability to generalize. This step is crucial for improving the model's performance on real-world scenarios.
+- The collected data underwent preprocessing and augmentation to enhance the model's ability to generalize. This step is crucial for improving the model's performance on real-world scenarios.
 
 ### 3. YOLOv8 Introduction
 
