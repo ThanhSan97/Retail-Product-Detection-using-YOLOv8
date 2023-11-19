@@ -36,6 +36,6 @@ In the "results" folder, you can find visualizations showcasing the model's perf
 
 ### Clone Repository
 
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+- git clone https://github.com/ThanhSan97/Retail-Product-Detection-using-YOLOv8.git
+- cd your-repository
 
